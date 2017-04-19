@@ -9,4 +9,4 @@ def not_string(str):
     else:
         return "not " + str
 
-print(not_string('not me bro'))
+print(not_string('x'))
